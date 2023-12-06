@@ -25,7 +25,7 @@ Clone o projeto
 Entre no diretório do projeto
 
 ```bash
-  cd teste-estribo
+  cd teste-escribo
 ```
 
 Instale a extensão Live Server
